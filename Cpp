@@ -1,0 +1,8 @@
+#include <iostream>
+
+int main() {
+  std::string txt = "Hello World!";
+  std::cout<<"Your text is: "<< txt << std::endl;
+  return (0);
+} 
+
